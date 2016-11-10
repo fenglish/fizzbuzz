@@ -1,3 +1,3 @@
 def is_divisible_by3?(number)
-  true
+  number % 3 == 0
 end
